@@ -6,7 +6,6 @@ This project taught me about file I/O as well classes, objects, and vectors in C
 
 Example usage:
 
-    PS C:\Users\sunm\OneDrive - Cincinnati Country Day School\dev\systems\cpp> ./a.exe        
     D,fiction,false,library
     C,fiction,true,frank
     B,fiction,true,jake
